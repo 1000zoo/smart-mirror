@@ -22,3 +22,25 @@
 ![스크린샷 2023-03-29 오전 3 08 34](https://github.com/1000zoo/smart-mirror/assets/8938679/b74a1e62-4feb-41aa-95a3-df51b0e3bc38)
 
 ---
+### 개발 버전
+Flutter 3.7.12
+
+### 사용 라이브러리
+[intl](https://pub.dev/packages/intl): 0.17.0 
+
+[shared_preferences](https://pub.dev/packages/shared_preferences): 2.0.15 
+
+[cupertino_list_tile](https://api.flutter.dev/flutter/cupertino/CupertinoListTile-class.html): 0.2.1 
+
+[camera](https://pub.dev/packages/camera): 0.10.0+4 
+
+[path_provider](https://pub.dev/packages/path_provider): 2.0.11 
+
+[gallery_saver](https://pub.dev/packages/gallery_saver): 2.3.2 
+
+[google_mlkit_barcode_scanning](https://pub.dev/packages/google_mlkit_barcode_scanning): 0.5.0 
+
+[fluttertoast](https://pub.dev/packages/fluttertoast): 8.2.1 
+
+ 
+---
